@@ -1,23 +1,17 @@
-### Hi there 👋
-- 🔭 I’m currently working on Node.Js and Express
-- 🌱 I’m currently learning React Native and MongoDB
+
+
 - <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/rohiwho/rohitwho/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
   
 
-# <div align="center">Developer Full Stack / Angular - NodeJS</div>  
+# <div align="center"> Full Stack Developer</div>  
 
-### <div align="center">🚧 My portfolio (thomascauquil.fr) redirects you here because i am updating it for 2023 🚧</div><br />
 
-- 🌱 I’m currently learning ThreeJS / Blender  
-  
 
-- 💻 All of my projects are available at [https://thomascauquil.fr](https://thomascauquil.fr)  
-  
-
-- ✉️ How to reach me [contact@thomascauquil.fr](mailto:contact@thomascauquil.fr)  
+- 🔭 I’m currently working on Node.Js and Express
+- 🌱 I’m currently learning React Native and MongoDB
   
 
 <br/>  
@@ -68,45 +62,4 @@
 
 <br/>  
 
-<div align="center">
-<a href="https://github.com/thomasync" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://cauquil.welovedevs.com/" target="_blank">
-<img src=https://i.ibb.co/dr1Jw3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376.png alt=medium style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/thomasync" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/thomasynchrone" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasync&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomasync&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
-
-<!--
-**rohitwho/rohitwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
